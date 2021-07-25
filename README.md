@@ -1,4 +1,3 @@
-@@ -0,0 +1,175 @@
 # API per festat zyrtare ne shqiperi
 
 Projekti merr te dhenat e pushimeve zyrtare nga faqja e [Bankes se Shqiperise](https://www.bankofalbania.org/Shtypi/Kalendari_i_festave_zyrtare_per_vitin_2021/) dhe i formaton ne json.
